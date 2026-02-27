@@ -334,7 +334,7 @@
                                 <artifactItem>
                                     <groupId>com.amazonaws</groupId>
                                     <artifactId>aws-java-sdk-bundle</artifactId>
-                                    <version>1.12.262</version>
+                                    <version>1.12.797</version>
                                 </artifactItem>
                                 <artifactItem>
                                     <groupId>software.amazon.awssdk</groupId>
