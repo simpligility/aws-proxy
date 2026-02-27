@@ -53,7 +53,7 @@
         <dep.airlift.version>284</dep.airlift.version>
         <dep.aws-sdk.version>2.25.32</dep.aws-sdk.version>
         <dep.airlift-units.version>1.10</dep.airlift-units.version>
-        <dep.jersey.version>3.1.9</dep.jersey.version>
+        <dep.jersey.version>4.0.2</dep.jersey.version>
         <dep.testcontainers.version>1.19.8</dep.testcontainers.version>
         <!-- in sync with container cgr.dev/chainguard/minio in S3Container -->
         <dep.minio.version>8.6.0</dep.minio.version>
