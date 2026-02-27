@@ -18,7 +18,7 @@
 
         <spark3.dep.hadoop.version>3.3.4</spark3.dep.hadoop.version>
         <spark3.dep.aws-java-sdk.version>1.12.262</spark3.dep.aws-java-sdk.version>
-        <spark3.dep.commons-logging.version>1.1.3</spark3.dep.commons-logging.version>
+        <spark3.dep.commons-logging.version>1.3.5</spark3.dep.commons-logging.version>
     </properties>
 
     <dependencies>
