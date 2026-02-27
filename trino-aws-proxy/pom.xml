@@ -344,12 +344,12 @@
                                 <artifactItem>
                                     <groupId>org.apache.hadoop</groupId>
                                     <artifactId>hadoop-aws</artifactId>
-                                    <version>3.3.4</version>
+                                    <version>3.4.3</version>
                                 </artifactItem>
                                 <artifactItem>
                                     <groupId>org.apache.hadoop</groupId>
                                     <artifactId>hadoop-aws</artifactId>
-                                    <version>3.4.0</version>
+                                    <version>3.4.3</version>
                                 </artifactItem>
                                 <artifactItem>
                                     <groupId>org.postgresql</groupId>
