@@ -51,7 +51,7 @@
         <air.check.skip-modernizer>true</air.check.skip-modernizer>
 
         <dep.airlift.version>284</dep.airlift.version>
-        <dep.aws-sdk.version>2.25.32</dep.aws-sdk.version>
+        <dep.aws-sdk.version>2.42.24</dep.aws-sdk.version>
         <dep.airlift-units.version>1.10</dep.airlift-units.version>
         <dep.jersey.version>3.1.9</dep.jersey.version>
         <dep.testcontainers.version>1.19.8</dep.testcontainers.version>
