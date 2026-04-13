@@ -50,7 +50,7 @@ public class S3Container
     public static final String POLICY_NAME = "managedPolicy";
 
     // Keep in sync with dep.minio.version in pom.xml
-    private static final String IMAGE = "cgr.dev/chainguard/minio@sha256:66bd82c8fe5e75868ae7d0b2e102d9a0dcf971b270a41bd060a9e6a643476ff8";
+    private static final String IMAGE = "cgr.dev/chainguard/minio@sha256:f2aba4b9c84b61881933142f1cb7cc1a20f8e8456f1f1aa353ddd248f23037f7";
 
     private static final String CONFIG_TEMPLATE = """
             {
